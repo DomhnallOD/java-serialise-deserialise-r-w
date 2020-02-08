@@ -1,0 +1,25 @@
+Employee List 
+Employee Type: SalesAgentName: John 
+Employee Number: 4 
+PPS Number: 12121212A 
+Sales: €999.0 
+Commission: €99.9 
+
+Employee Type: SalesAgentName: Patricia 
+Employee Number: 4 
+PPS Number: 64646464W 
+Sales: €999.0 
+Commission: €99.9 
+
+Employee Type: SalesPersonName: Ryan 
+Employee Number: 4 
+PPS Number: 43432121R 
+Sales: €999.0 
+Commission: €149.85 
+
+Employee Type: SalesPersonName: Fiona 
+Employee Number: 4 
+PPS Number: 73827832B 
+Sales: €999.0 
+Commission: €149.85 
+
