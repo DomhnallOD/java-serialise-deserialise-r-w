@@ -1,4 +1,4 @@
-# Exponentiation by Squaring
+# SalesEmployee Commission Management System
 A Java programme for the purpose of demonstrating inheritance, abstraction, serialisation, deserialisation, and reading to and writing from files.
 
 ## Purpose
